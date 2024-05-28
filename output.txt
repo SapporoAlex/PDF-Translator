@@ -1,0 +1,127 @@
+Flow of the Game This is a game in which white takes turns moving one piece at a time, with white and black taking turns. White takes the opponent's piece
+
+The first player to mate* his or her opponent's king wins. If you can't mate, you get a draw.
+
+The board is arranged with the white square in the lower right corner and the pawns in the second row. From both sides are rooks,
+
+Knight, then bishop. In the middle, the king and queen.
+
+There are. Remember that white queens are white squares and black queens are black squares.
+
+Names of the pieces and how to move them There are only 6 types of pieces
+
+  Bishop: diagonal
+
+  Luke: Vertical Horizontal
+
+This is done in one move, one game at a time. King, rook moves once.
+
+It is not possible to do so if it is checked or checked.
+
+The castling king is shifted two steps to the side, a move that jumps over the rook.
+
+  Queen: Happo
+
+  King: 1 step in all directions
+
+Promotion Pawns like other than the King when they advance to the 8th level.
+
+The queen is usually the strongest queen and decides the game. Usually, the strongest queen decides the game.
+
+The trick in the endgame is to make the pawns queens. The trick to the endgame is to queen the pawns.
+
+The move that says "I'm going to take the check-king next" is called a check (king move).
+
+Yes. Don't leave the checks unchecked. We will always prevent it.
+
+Mate is checked and
+
+If you have no way to defend yourself. If you are mated, you lose.
+
+Now, checkmate your opponent's king!
+
+  Pawn: 1 step forward (2 steps back)
+
+  Knight: Happo katsura (L-jumping)
+
+Ampersand Immediately after the opponent's pawn advances 2 steps
+
+and the 5th step pawn takes the pawn that has moved 2 steps forward to
+
+You may proceed diagonally forward. (You don't have to know what you're doing.)
+
+Let's play chess. Let's just do it!
+
+Chess is a universal culture, a brain sport, and a very deep
+
+The game is a deep game of chess. Chess fans from all over the world are waiting for you!
+
+You may move two steps from the second-stage pawn. When taking a piece,
+
+We are looking forward to seeing you. Come on, why don't you try playing chess?
+
+Always take the piece diagonally in front of you. The piece in front of you cannot be taken!
+
+NCS (National Chess Society of Japan), recognized by the World Chess Federation
+
+Only the knight can jump over the enemy pieces.
+
+Contact: info@japanchess.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+               
+ 
+ 
+ 
+ 
+ 
+

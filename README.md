@@ -35,7 +35,7 @@ import deepl
 from pdfminer.high_level import extract_text
 
 # Extract text from PDF
-text = extract_text("5分でわかるチェス.pdf")
+text = extract_text("ファイル.pdf")
 with open('input.txt', 'w') as input_file:
     input_file.write(text)
 
